@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_oct - writes unsigned long integer to buffer or stdout in base 8
  * @inv: the arguments inventory with most commonly used arguments

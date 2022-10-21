@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * p_string - writes string to buffer or stdout
  * @inv: the arguments inventory with most commonly used arguments

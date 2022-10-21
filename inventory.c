@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * build_inventory - builds variables inventory
  * @args_list: variadic arguments list

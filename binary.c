@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *p_binary - writes unsigned integer to buffer
  * @inv: the arguments inventory with most commonly used arguments

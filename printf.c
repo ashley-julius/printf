@@ -2,7 +2,6 @@
  * This program shows exactly how to create your own printf function
  * from scratch
  */
-
 #include "main.h"
 /**
  *_printf - This function works exactly like the prinf function in c

@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *print_integers - writes integers to buffer
  * @inv: the arguments inventory with most commonly used arguments

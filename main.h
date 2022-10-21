@@ -14,6 +14,7 @@
 #define LOWHEX 0
 #define UPHEX 1
 
+
 /* structs */
 /**
  * struct inventory_s - inventory of common variables needed

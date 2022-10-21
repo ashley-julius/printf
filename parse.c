@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * parse_specifiers - parses characters that follow the % character
  * @inv: the arguments inventory

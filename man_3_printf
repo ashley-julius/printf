@@ -13,6 +13,7 @@
 .SH SYNOPSIS
 .SH ""
 
+
 _printf() function takes 2 arguments: a character pointer to a string: format, \
 and a 'variable arguments list': arg_list. _printf() loops through the format \
 string searching for a conversion specifier, which is indicated with the '%' \

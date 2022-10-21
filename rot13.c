@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * p_rot13 - translates string to ROT13 and writes to stdout buffer
  * @inv: the arguments inventory with most commonly used arguments

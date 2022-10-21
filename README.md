@@ -1,1 +1,1 @@
-This project is full of fun. Creating your own customized functions from scrath
+This project is full of fun. Creating your own customized functions from scratch

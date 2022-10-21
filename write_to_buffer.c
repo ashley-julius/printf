@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * write_buffer - adds input char to buffer 1 at a time
  * @inv: the arguments inventory with most commonly used arguments

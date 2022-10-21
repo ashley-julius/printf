@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * p_rev_string - writes string to buffer or stdout in reverse
  * @inv: the arguments inventory with most commonly used arguments
